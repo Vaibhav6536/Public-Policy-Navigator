@@ -1,6 +1,7 @@
 # Public Policy Navigation using AI — OCR + Ollama Chat
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](./assets/Screenshot%202025-09-30%20131525.png)
+
 
 A Streamlit-based AI application that helps users extract, analyze, and understand public policy PDFs using OCR, text chunking, retrieval, and local LLMs powered by Ollama.
 
