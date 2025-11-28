@@ -66,5 +66,5 @@ Export complete OCR output and chunks for reuse.
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/public-policy-ai.git
-cd public-policy-ai
+git clone https://github.com/Vaibhav6536/Public-Policy-Navigator
+cd Public-Policy-Navigator
